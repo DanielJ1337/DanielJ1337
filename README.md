@@ -6,8 +6,7 @@
    some JS to actually make my sites and Apps do something. Recently I stumbled across a YT Channel which teaches programming with real-world projects.
    That's why you find clones of some of the most known apps of the internet in my repos. 
    
-   It's fun to build something and see it grow line by line. I plan get a job as a freelance developer this year, so that I can make a side income additionally to  
-   my main income and live life to the fullest. 
+   It's fun to build something and see it grow line by line. I plan get a job as a freelance developer this year, so that I can make a side income additionally to      my main income and live life to the fullest. 
 
 🌱 I’m currently learning ReactJS. Also I'm regularly getting better with HTML and CSS, too. I chose React because it's pretty powerful JS library. You can build      massive projects with very little effort. At least from my point of view. ;) 
 
