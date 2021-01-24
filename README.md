@@ -15,7 +15,7 @@
 - 🤔  I’m looking for help with some quirky concepts in ReactJS like context or StateProviders. These topics are something I cannot quite wrap my head around until
       now. So anybody who has some helpful sources for learning is welcomed to share them with me. :) 
 
-- 💬  Ask me about anythinf you want. I cannot promise that I'll always have an answer but I'll make damn sure that I'll find it in a short amount of time. 
+- 💬  Ask me about anything you want. I cannot promise that I'll always have an answer but I'll make damn sure that I'll find it in a short amount of time. 
 
 - 📫  How to reach me: djuergens561@gmail.com
 
