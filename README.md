@@ -1,4 +1,4 @@
-### Hey guys - please feel free to look areound 👋
+### Hey guys - please feel free to look around 👋
 
 
 🔭 I’m currently working on some projects to build up my portfolio as a web developer! 
